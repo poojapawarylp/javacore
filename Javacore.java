@@ -16,6 +16,17 @@ public class Javacore {
      */
     public static void main(String[] args) {
         System.err.println("hii");
+        int a=0;
+        
+        if(a==0)
+        {
+             System.out.println("wow");
+        }
+        else
+             {
+             System.out.println("no");
+        }
+            
         // TODO code application logic here
     }
     
